@@ -1,4 +1,6 @@
 # hello-world
 Introduction to Github
 # Goal 1
-Become more familiar with writing code and using programs such as Github and Python
+Become more familiar with writing code
+# Goal 2
+Have more knowledge of the field of computational chemistry
